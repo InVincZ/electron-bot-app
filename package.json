@@ -1,0 +1,14 @@
+{
+  "name": "bot-compilation",
+  "version": "1.0.0",
+  "description": "GUI Application with all python scripts for easy access.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Michael Becker",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.6"
+  }
+}
